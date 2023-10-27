@@ -1,6 +1,6 @@
 def main():
   list = getData()
-
+  print(list)
 
 
 def getData():
